@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MyApiProject</title>
-</head>
-<body>
 
   <h1>MyApiProject</h1>
 
@@ -35,6 +27,3 @@
     </li>
     <li><strong>Test API with Your Database</strong>: Once migrations are applied, you can test the API using your PostgreSQL database by running the project with "Debug" or pressing F5.</li>
   </ol>
-
-</body>
-</html>
