@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m2Tj22rNfSl9nKUWHAAycBaF9ke1ZpafJppEssaZMJK9F10T48gz/nFjq8tGbmQniH3ti1Osp6F59HwaYv923A==",
+  "dgSpecHash": "y08swog9qn3ReTo2F1oqPD0at/p7cgH0GdJzbE/WWom2ppmtnaKMAB4/rvXWLc+g6oPgeKSh6Mux2ugL4MtpSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mary\\Downloads\\APIContacts-master\\MyApiProject\\MyApiProject.csproj",
+  "projectFilePath": "D:\\pull\\MyApiProject\\MyApiProject\\MyApiProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mary\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mary\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
